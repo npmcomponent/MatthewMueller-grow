@@ -1,0 +1,20 @@
+{
+  "name": "matthewmueller-grow",
+  "description": "grow textareas",
+  "version": "0.0.3",
+  "keywords": [
+    "textarea",
+    "grow",
+    "auto",
+    "resize"
+  ],
+  "styles": [
+    "grow.css"
+  ],
+  "dependencies": {
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git"
+  },
+  "license": "MIT"
+}

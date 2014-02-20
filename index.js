@@ -2,9 +2,9 @@
  * Module dependencies
  */
 
-var $ = require('jquery'),
-    event = require('event'),
-    domify = require('domify');
+var $ = require('component-jquery'),
+    event = require('component-event'),
+    domify = require('component-domify');
 
 /**
  * Attributes that affect height
